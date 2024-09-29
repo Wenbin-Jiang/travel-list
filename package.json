@@ -1,6 +1,6 @@
 {
+  "homepage": "https://wenbin-jiang.github.io/travel-list/",
   "name": "travel-list",
-  "homepage": "https://wenbin-jiang.github.io/travel-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

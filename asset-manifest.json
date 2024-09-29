@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Wenbin-Jiang/travel-list/static/css/main.10a2aefb.css",
-    "main.js": "/Wenbin-Jiang/travel-list/static/js/main.825e7295.js",
-    "static/js/453.634db10d.chunk.js": "/Wenbin-Jiang/travel-list/static/js/453.634db10d.chunk.js",
-    "index.html": "/Wenbin-Jiang/travel-list/index.html",
-    "main.10a2aefb.css.map": "/Wenbin-Jiang/travel-list/static/css/main.10a2aefb.css.map",
-    "main.825e7295.js.map": "/Wenbin-Jiang/travel-list/static/js/main.825e7295.js.map",
-    "453.634db10d.chunk.js.map": "/Wenbin-Jiang/travel-list/static/js/453.634db10d.chunk.js.map"
+    "main.css": "/travel-list/static/css/main.10a2aefb.css",
+    "main.js": "/travel-list/static/js/main.d4fb25ab.js",
+    "static/js/453.634db10d.chunk.js": "/travel-list/static/js/453.634db10d.chunk.js",
+    "index.html": "/travel-list/index.html",
+    "main.10a2aefb.css.map": "/travel-list/static/css/main.10a2aefb.css.map",
+    "main.d4fb25ab.js.map": "/travel-list/static/js/main.d4fb25ab.js.map",
+    "453.634db10d.chunk.js.map": "/travel-list/static/js/453.634db10d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10a2aefb.css",
-    "static/js/main.825e7295.js"
+    "static/js/main.d4fb25ab.js"
   ]
 }
